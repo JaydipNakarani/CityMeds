@@ -1,0 +1,32 @@
+class Images {
+  static String imagePath = "assets/images";
+  static String carousel = "$imagePath/health_back.png";
+  static String bottle = "$imagePath/fly_bottle.png";
+  static String cosmetics = "$imagePath/cosmetics.png";
+  static String dairyProducts = "$imagePath/bournvita.png";
+  static String ensurePow = "$imagePath/ensure.png";
+  static String ensure = "$imagePath/ensure_powder.png";
+  static String membership = "$imagePath/subscription_icon.png";
+  static String subShadow = "$imagePath/sub_shadow.png";
+  static String pharmacy = "$imagePath/pharmacy.jpg";
+  static String referEarn = "$imagePath/refer_earn.png";
+  static String star = "$imagePath/star.png";
+  static String medicines = "$imagePath/medicine.png";
+  static String searchIcon = "$imagePath/Search.png";
+  static String vita = "$imagePath/vita.png";
+  static String vicks = "$imagePath/vicks.png";
+  static String paracetamol = "$imagePath/paracetamol.png";
+  static String dextro = "$imagePath/dextro.png";
+  static String vapor = "$imagePath/viks.png";
+  static String paytm = "$imagePath/paytm.png";
+  static String home = "$imagePath/home.png";
+  static String delHome = "$imagePath/delivery_home.png";
+  static String shopping = "$imagePath/shopping.png";
+  static String discount = "$imagePath/discount.png";
+  static String research = "$imagePath/research.png";
+  static String profile = "$imagePath/profile.png";
+  static String notification = "$imagePath/notification.png";
+  static String location = "$imagePath/location.png";
+  static String invite = "$imagePath/invite.png";
+  static String addCart = "$imagePath/add_cart.png";
+}
